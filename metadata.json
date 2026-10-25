@@ -1,0 +1,6 @@
+{
+  "name": "CineCraft AI",
+  "description": "All-in-one generative AI video creator studio for Android with Text-to-Video, Image-to-Video, and Story-to-Video generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
